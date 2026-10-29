@@ -6,4 +6,3 @@ venv/
 .vscode/
 .streamlit/secrets.toml
 
-data/ossetic_negations_data.csv
